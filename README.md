@@ -22,4 +22,4 @@ or
 ```bash
 python3 manage.py runserver
 ```
-And check it out on [localhost:8000]
+And check it out on http://localhost:8000 or http://127.0.0.1:8000
